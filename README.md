@@ -25,10 +25,4 @@ iOS封装的下拉列表控件，调用简单，在tableview上使用也不会�
         msgLabel.text = msgString;
         
     }];
-```
-
-
-![](https://upload-images.jianshu.io/upload_images/2107229-a8418a85fe3afa47.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/360)
-
-
-[博客地址:https://www.jianshu.com/p/00186b02cb04](https://www.jianshu.com/p/00186b02cb04)
+``
