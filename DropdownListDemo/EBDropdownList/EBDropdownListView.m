@@ -96,6 +96,7 @@ static CGFloat const kItemCellHeight = 40;
     UIWindow * window = [UIApplication sharedApplication].keyWindow;
     [window addSubview:self.backgroundView];
     [window addSubview:self.tbView];
+    self.tbView.clipsToBounds = YES;
     
     // 获取按钮在屏幕中的位置
     CGRect frame = [self convertRect:self.bounds toView:window];
